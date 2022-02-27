@@ -1,0 +1,35 @@
+0000028
+
+18/07/21
+
+10:04:40
+
+Entree 
+ 
+Aantal kleinkind:
+0
+Aantal kind:
+0
+Aantal volwassenen:
+1
+Aantal senioren:
+0
+
+Totaal:
+1
+
+Arrangement 
+ 
+Parkeren Dagtarief: nee
+0
+Restaurant: nee
+0
+3D-Theater: nee
+0
+Schminken: nee
+0
+Donatie gratis ijsje: nee
+0
+
+Tijd 3D-theater: 
+geen

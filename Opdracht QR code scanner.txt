@@ -1,0 +1,37 @@
+Python Opdracht: E-ticket + QR Code
+
+De directie van Pythonland heeft besloten dat het inlezen van de E-Tickets bij de draaihekjes ook
+verder geautomatiseerd dient te worden. Daarom zijn ze tot het volgende plan gekomen:
+
+Tot nu toe hebben we met een QR App op een smartphone de QR Codes van de E-Tickets kunnen
+uitlezen. In deze vervolgopdracht is het de bedoeling dat men laptops gaat inzetten om als QR-code
+lezer te gaan gebruiken. Uiteindelijk ook in combinatie met externe camera's
+
+Dus de niewe app moet het volgende doen:
+
+- De interne laptopcamera, maar ook een externe USB-camera kunnen gebruiken om QR-codes 
+te kunnen uitlezen
+
+- De inhoud van een QR-code moet niet gelezen kunnen worden maar dient vervolgens in een 
+bestand te worden weggeschreven. 
+
+- De bestandsnaam moet o.a. de datum en tijd reflecteren van het moment van wegschrijven.
+
+Maak daarna eens voor meerdere verschillende bezoekers QR-Code tickets aan, verdeeld over een
+aantal verschillende dagen. Ga deze inscannen met je eigen gemaakte QR-code scanner en zorg 
+ervoor dat je gaat registreren welke bezoekers er in een bepaalde week zijn geweest. 
+
+Je maakt dus eigenlijk een bezoekersdatabase, waarbij je de mogelijkheid moet hebben om een 
+selectie te kunnen maken van de bezoekers waarvan de tickets zijn ingescand. Denk bijvoorbeeld 
+aan een selectie op datum, leeftijd van de bezoekers, wel of geen restaurantbezoek, wie heeft er wel 
+of geen parkeerticket besteld enz. 
+
+Ook kan het interessant zijn om een selectie te kunnen maken op het tijdstip van binnenkomst, dit
+i.v.m. het kunnen analyseren van drukke en minder drukke bezoekuren.
+
+Maak eerst even weer een (eenvoudig) opzetje van de te gebruiken techniek en methodiek, en ga nu
+ook een "Trello" aanmaken voor dit project. Ga het gefaseerd opzetten, dus zorg er eerst voor dat je
+uberhaupt de input van zowel de ingebouwde camera als de externe camera kunt gebruiken om
+e.e.a. in te kunnen lezen. 
+
+

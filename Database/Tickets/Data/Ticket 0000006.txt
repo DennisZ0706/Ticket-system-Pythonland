@@ -1,0 +1,35 @@
+0000006
+
+16/07/21
+
+10:00:05
+
+Entree 
+ 
+Aantal kleinkind:
+2
+Aantal kind:
+1
+Aantal volwassenen:
+2
+Aantal senioren:
+0
+
+Totaal:
+5
+
+Arrangement 
+ 
+Parkeren Dagtarief: ja
+1
+Restaurant: ja
+5
+3D-Theater: ja
+5
+Schminken: ja
+2
+Donatie gratis ijsje: ja
+5
+
+Tijd 3D-theater: 
+15:00

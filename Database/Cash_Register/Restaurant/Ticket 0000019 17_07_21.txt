@@ -1,0 +1,19 @@
+0000019
+
+17/07/21
+
+17:05:49
+
+Restaurant
+ 
+Aantal kleinkind:
+0
+Aantal kind:
+0
+Aantal volwassenen:
+2
+Aantal senioren:
+2
+
+Totaal:
+4
