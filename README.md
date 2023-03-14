@@ -6,7 +6,7 @@ Complete ticket system for Pythonland with a ticket application, a cash register
 
 The ticket application guides the visitor through the ordering process. With arrows and checkboxes visitors and extra facilities can be added to the ticket. When the ticket is ready, a printable PDF of the E-ticket will be made.
 
-All cash registers of the park have been implemented in the cash register application. A cash register can be selected by clicking the radio button of the cash register. When a visitor has lost a ticket, the application can retrieve the ticket from the database based on the name. Ticket data can also be requested from the database.
+All cash registers of the park have been implemented in the cash register application. A cash register can be selected by clicking the radio button of the cash register. When a visitor has lost a ticket, the application can retrieve the ticket from the database based on the visitors name. Ticket data can also be requested from the database.
 
 When a ticket is scanned the data will be added to the database. With the database application all kinds of visitor numbers can be retrieved from the database. Both per arrangement and in total. And both by date and total. It is also possible to request a report with all visitor numbers over a certain period.
 
@@ -56,33 +56,43 @@ Tickets can be scanned by holding the QR-code in front of the camera. Info about
 
 **database_app**
 
-By clicking on the various cash registers at the top, data can be seen about how many visitors have visited each facility. By clicking on a date at the top of the calendar and clicking on "Date" you can also retrieve visitor numbers per date from a specific cash register. A report with all visitor numbers of all cash registers over a certain period of time can be requested by entering 2 dates at the top left and clicking on "Rapport". At the cash register at the entrance is also shown what the waiting time at the gate is. And at the cash register of the parkinglot is also shown how many cars are on the parkinglot. 
+By clicking on the various cash registers at the top, data can be seen about how many visitors have visited each facility. By clicking on a date at the top of the calendar and clicking on "Date" you can also retrieve visitor numbers per date from a specific cash register. A report with all visitor numbers of all cash registers over a certain period of time can be requested by entering 2 dates at the top left and clicking on "Rapport". At the cash register at the entrance is also shown what the waiting time at the gate is. And at the cash register of the parkinglot is also shown how many cars are on the parkinglot at that moment. 
 
 
 ## Preview
 
 **ticket_app**
 
-![screenshot_ticket_start](Showcase/screenshot_ticket_start.png?raw=true "Start screen")
+![screenshot_ticket_start](Showcase/screenshot_ticket_start.png?raw=true "Starting screen")<br>
+Starting screen
 
-![screenshot_ticket_input_persons](Showcase/screenshot_ticket_input_persons.png?raw=true "Fill in persons")
+![screenshot_ticket_input_persons](Showcase/screenshot_ticket_input_persons.png?raw=true "Fill in persons")<br>
+Fill in persons
 
-![screenshot_ticket_eticket](Showcase/screenshot_ticket_eticket.png?raw=true "E-ticket")
+![screenshot_ticket_eticket](Showcase/screenshot_ticket_eticket.png?raw=true "E-ticket")<br>
+E-ticket
 
 **cash_register_app**
 
-![screenshot_cash_acces](Showcase/screenshot_cash_acces.png?raw=true "Acces allowed")
+![screenshot_cash_acces](Showcase/screenshot_cash_acces.png?raw=true "Acces allowed")<br>
+Acces allowed
 
-![screenshot_cash_denied](Showcase/screenshot_cash_denied.png?raw=true "Acces denied")
+![screenshot_cash_denied](Showcase/screenshot_cash_denied.png?raw=true "Acces denied")<br>
+Acces denied
 
-![screenshot_cash_ticketdata](Showcase/screenshot_cash_ticketdata.png?raw=true "Get ticket data")
+![screenshot_cash_ticketdata](Showcase/screenshot_cash_ticketdata.png?raw=true "Get ticket data")<br>
+Get ticket data
 
-![screenshot_cash_name](Showcase/screenshot_cash_name.png?raw=true "Search ticket with name")
+![screenshot_cash_name](Showcase/screenshot_cash_name.png?raw=true "Search ticket with name")<br>
+Search ticket with name
 
 **database_app**
 
-![screenshot_data_total](Showcase/screenshot_data_total.png?raw=true "Get data total")
+![screenshot_data_total](Showcase/screenshot_data_total.png?raw=true "Get data total")<br>
+Get data total
 
-![screenshot_data_date](Showcase/screenshot_data_date.png?raw=true "Get data date")
+![screenshot_data_date](Showcase/screenshot_data_date.png?raw=true "Get data date")<br>
+Get data date
 
-![screenshot_data_report](Showcase/screenshot_data_report.png?raw=true "Get report")
+![screenshot_data_report](Showcase/screenshot_data_report.png?raw=true "Get report")<br>
+Get report
