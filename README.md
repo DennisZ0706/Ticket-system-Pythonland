@@ -61,7 +61,7 @@ By clicking on the various cash registers at the top, data can be seen about how
 
 ## Preview
 
-**ticket_app**
+**Ticket application**
 
 ![screenshot_ticket_start](Showcase/screenshot_ticket_start.png?raw=true "Starting screen")<br>
 Starting screen
@@ -72,7 +72,7 @@ Fill in persons
 ![screenshot_ticket_eticket](Showcase/screenshot_ticket_eticket.png?raw=true "E-ticket")<br>
 E-ticket
 
-**cash_register_app**
+**Cash register application**
 
 ![screenshot_cash_acces](Showcase/screenshot_cash_acces.png?raw=true "Acces allowed")<br>
 Acces allowed
@@ -86,7 +86,7 @@ Get ticket data
 ![screenshot_cash_name](Showcase/screenshot_cash_name.png?raw=true "Search ticket with name")<br>
 Search ticket with name
 
-**database_app**
+**Database applicaton**
 
 ![screenshot_data_total](Showcase/screenshot_data_total.png?raw=true "Get data total")<br>
 Get data total
